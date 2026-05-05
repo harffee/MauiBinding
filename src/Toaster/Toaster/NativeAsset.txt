@@ -1,2 +1,0 @@
-https://jitpack.io/com/github/getActivity/Toaster/12.2/Toaster-12.2.aar
-Toaster.aar
