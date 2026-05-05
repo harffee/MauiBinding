@@ -1,2 +1,0 @@
-http://mvn.getui.com/nexus/content/repositories/releases/com/getui/gtsdk/3.2.13.0/gtsdk-3.2.13.0.aar
-gtsdk.aar
