@@ -1,2 +1,0 @@
-https://jitpack.io/com/github/princekin-f/EasyFloat/2.0.4/EasyFloat-2.0.4.aar
-EasyFloat.aar
