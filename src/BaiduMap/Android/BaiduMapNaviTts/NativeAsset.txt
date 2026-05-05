@@ -1,2 +1,0 @@
-https://search.maven.org/remotecontent?filepath=com/baidu/lbsyun/NaviTts/3.2.8/NaviTts-3.2.8.aar
-NaviTts.aar

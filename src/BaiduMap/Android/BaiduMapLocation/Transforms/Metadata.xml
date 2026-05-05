@@ -1,5 +1,0 @@
-﻿<metadata>
-
-	<attr path="/api/package[@name='com.baidu.location']/class[@name='Address']/field[@name='address']" name="managedName">Address_</attr>
-
-</metadata>
