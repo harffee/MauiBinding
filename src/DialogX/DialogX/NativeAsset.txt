@@ -1,2 +1,0 @@
-https://jitpack.io/com/github/kongzue/DialogX/DialogX/0.0.47/DialogX-0.0.47.aar
-DialogX.aar
